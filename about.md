@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Home
+permalink: /Home/
 ---
 
-Some information about you!
+## Dude, how do I do this?
 
-### More Information
+The life of a dude can be difficult to navigate sometimes. This blog is meant to help you through that. Still don’t know how to change your oil? Look in the Mechanic Dude section. Too much credit card debt from your 20s when you were drinking booze and going to the strip club? Financial Dude section. Did you just buy a new Corvette after you got laid off from your job? Try the Mid-life Crisis Dude section.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+-The Dude
